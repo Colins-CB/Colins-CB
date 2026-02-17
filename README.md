@@ -2,7 +2,7 @@
 I'm Colins Cheruiyot. A software engneer from
 Nairobi, Kenya. 
 # 💫 About Me:
-I'm currently working mpesa prompting website.<br>Looking forward to jion hands with legends.<br>I'm currently learning Python.<br>I'm about to convince you that progress brought experience<br><br>"simple plans make the best version of you, try it and accept the errors"
+I'm currently working mpesa prompting website.<br>Looking forward to jion hands with legends.<br>I'm currently learning Python.<br>I'm about to convince you that progress brought experience<br><br>
 
 
 ## 🌐 Socials:
@@ -17,7 +17,7 @@ I'm currently working mpesa prompting website.<br>Looking forward to jion hands 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Colins-CB&icon=0&color=0)](https://visitcount.itsvg.in)
-
+"simple plans make the best version of you, try it and accept the errors"
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buy me data!!!) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/colins cheruiyot) 
 

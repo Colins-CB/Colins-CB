@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Colins Cheruiyot. A software engneer from
+I'm Colins Cheruiyot. A software engneer from<br>
 Nairobi, Kenya. 
 # 💫 About Me:
 I'm currently working mpesa prompting website.<br>Looking forward to jion hands with legends.<br>I'm currently learning Python.<br>I'm about to convince you that progress brought experience<br><br>

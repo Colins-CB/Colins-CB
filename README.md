@@ -17,7 +17,7 @@ I'm currently working mpesa prompting website.<br>Looking forward to jion hands 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Colins-CB&icon=0&color=0)](https://visitcount.itsvg.in)
-"simple plans make the best version of you, try it and accept the errors"
+"CODE VIBING IS THE BEST"
   
 I'M INTERESTED IN DELEVERING THE PROJECTS ON TIME.
   

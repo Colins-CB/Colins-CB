@@ -17,6 +17,7 @@ I like working under minimal supurvision.<br>Looking forward to jion hands with 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Colins-CB&icon=0&color=0)](https://visitcount.itsvg.in)
+# Critics
 "CODE VIBING IS THE BEST"
   
 "I'M INTERESTED IN DELEVERING THE PROJECTS ON TIME"

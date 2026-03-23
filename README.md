@@ -2,7 +2,7 @@
 I'm Colins Cheruiyot. A software engneer from<br>
 Nairobi, Kenya. 
 # 💫 About Me:
-I like working under minimal supurvision & without.<br>Looking forward to jion hands with the tech companies.<br>I'm currently learning Python & Java.<br>I'm about to convince you that progress brought experience and constenst writing of code.<br> Vibing with working is best rather than idling.<br> Learning new things everyday is best in coding<br><br>
+I like working under minimal supurvision & without.<br>Looking forward to jion hands with the tech companies.<br>I'm currently learning Python & Java.<br>I'm about to convince you that progress brought experience and constenst writing of code.<br>Learning new things every day<br> Vibing with working is best rather than idling.<br> Learning new things everyday is best in coding<br><br>
 
 
 
